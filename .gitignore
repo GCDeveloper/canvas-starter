@@ -1,0 +1,8 @@
+# files
+*.log
+*.md
+
+# directories
+node_modules/
+dist/
+.git/
